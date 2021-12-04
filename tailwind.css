@@ -821,7 +821,7 @@ video {
 }
 
 .bg-bg-1 {
-  background-image: url(../../public/images/bg/bg-1.svg);
+  background-image: url(../images/bg/bg-1.svg);
 }
 
 .bg-bottom {
@@ -965,7 +965,7 @@ video {
 }
 
 .dark .dark\:bg-bg-1-dark {
-  background-image: url(../../public/images/bg/bg-1-dark.svg);
+  background-image: url(../images/bg/bg-1-dark.svg);
 }
 
 .dark .dark\:fill-current {

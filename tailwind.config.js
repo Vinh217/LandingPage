@@ -42,12 +42,12 @@ module.exports = {
         'center-top' : 'center top'
       },
       backgroundImage: {
-          'bg-1': "url(../../public/images/bg/bg-1.svg)",
-          'bg-1-dark': "url(../../public/images/bg/bg-1-dark.svg)",
-          'bg-2': "url(../../public/images/bg/bg-2.svg)",
-          'bg-2-dark': "url(../../public/images/bg/bg-2-dark.svg)",
-          'star-full': "url(../../public/images/icons/star-full.svg)",
-          'star-empty': "url(../../public/images/icons/star-empty.svg)",
+          'bg-1': "url(../images/bg/bg-1.svg)",
+          'bg-1-dark': "url(../images/bg/bg-1-dark.svg)",
+          'bg-2': "url(../images/bg/bg-2.svg)",
+          'bg-2-dark': "url(../images/bg/bg-2-dark.svg)",
+          'star-full': "url(../images/icons/star-full.svg)",
+          'star-empty': "url(../images/icons/star-empty.svg)",
       },
       colors: {
         "second-text": "#AFAFAF",
